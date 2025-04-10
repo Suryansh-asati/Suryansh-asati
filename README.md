@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey there, world!<br>I'm Suryansh Asati — welcome to my GitHub corner! 🚀<br>Currently leveling up as a Computer Science Engineering student, caffeine-powered and keyboard-driven. 💻☕<br><br>💡 About Me:<br>🎓 Studying Bachelor's in Engineering (Computer Science) — trying to compile my life one semester at a time.<br><br>🌐 Passionate about Web Development and Data Analytics — yes, I read docs for fun sometimes.<br><br>🤝 I’m looking for help with: mastering the dev game & cracking the data code — tips welcome, bribes considered. 😜<br><br>❓ Ask me about: tech stuff, debugging nightmares, sitcom recommendations (but not Friends, don’t @ me 🙅‍♂️)<br><br>📬 How to reach me:<br>📸 Instagram<br>💼 LinkedIn<br><br>🧔 Pronouns: He/Him<br>🎧 Fun Fact:<br>I’m a hardcore 90s hip-hop head — Eminem is GOAT 🐐<br><br>I quote sitcoms more than I use Stack Overflow.<br><br>Coffee > Sleep, Git > Life, and Em > Everyone else. 🎤🔥<br><br>Also I have a really cool looking mouse 🖱️<br><br>🛠️ Tech Stack I'm Exploring:<br>> Web Dev<br>> Data Analytics<br>> Git wizardry in progress...<br>Thanks for dropping by! Let’s build something cool together. 😎✨<br>P.S. If you’re still reading this — you deserve a cookie 🍪
 
-<!--
-**Suryansh-asati/Suryansh-asati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryansh.asati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suryansh_asati) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suryanshasati1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryansh.asati1@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Suryansh-asati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Suryansh-asati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-asati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Suryansh-asati&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
