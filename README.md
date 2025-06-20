@@ -1,6 +1,59 @@
-# 💫 About Me:
-👋 Hey there, world!<br>I'm Suryansh Asati — welcome to my GitHub corner! 🚀<br>Currently leveling up as a Computer Science Engineering student, caffeine-powered and keyboard-driven. 💻☕<br><br>💡 About Me:<br>🎓 Studying Bachelor's in Engineering (Computer Science) — trying to compile my life one semester at a time.<br><br>🌐 Passionate about Web Development and Data Analytics — yes, I read docs for fun sometimes.<br><br>🤝 I’m looking for help with: mastering the dev game & cracking the data code — tips welcome, bribes considered. 😜<br><br>❓ Ask me about: tech stuff, debugging nightmares, sitcom recommendations (but not Friends, don’t @ me 🙅‍♂️)<br><br>📬 How to reach me:<br>📸 Instagram:https://www.instagram.com/suryansh.asati/<br>💼 LinkedIn: https://www.linkedin.com/in/suryansh-asati<br><br>🧔 Pronouns: He/Him<br>🎧 Fun Fact:<br>I’m a hardcore 90s hip-hop head — Eminem is GOAT 🐐<br><br>I quote sitcoms more than I use Stack Overflow.<br><br>Life's like this, I like this.....(IYKYK)🤵<br><br>Coffee > Sleep, Git > Life, and Em > Everyone else. 🎤🔥<br><br>Also I have a really cool looking mouse 🖱️<br><br>🛠️ Tech Stack I'm Exploring:<br>> Web Dev<br>> Data Analytics<br>> Git wizardry in progress...<br>Thanks for dropping by! Let’s build something cool together. 😎✨<br>P.S. If you’re still reading this — you deserve a cookie 🍪
+# 💫 About Me
 
+👋 Hi, I'm **Suryansh Asati** — welcome to my GitHub space! 🚀  
+Currently pursuing a **Bachelor's in Computer Science Engineering**, powered by caffeine and curiosity. 💻☕
+
+---
+
+### 🎓 Education & Interests
+- 📘 Engineering student with a focus on **Web Development** and **Data Analytics**.
+- 🧠 Always learning — from technical documentation to hands-on debugging.
+- 🤝 Open to collaboration, mentorship, and new challenges in the tech world.
+
+---
+
+### 💬 Let's Connect
+- 📸 [Instagram](https://www.instagram.com/suryansh.asati/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suryansh-asati)
+
+---
+
+### ❓ Ask Me About
+- JavaScript, HTML/CSS, Git basics
+- Debugging mysterious console errors
+- Productivity tips for devs
+- Sitcom recommendations (just not *Friends*, please 🙅‍♂️)
+
+---
+
+### 🎧 Fun Facts
+- Huge fan of **90s hip-hop** — Eminem is the GOAT 🐐
+- I quote sitcoms more than I reference Stack Overflow
+- **Coffee > Sleep**, **Git > Life**, and yes — I do own a pretty awesome mouse 🖱️  
+- "Life’s like this, I like this..." — *IYKYK* 🎤🔥
+
+---
+
+### 🛠️ Tech Stack I'm Exploring
+```bash
+> Frontend Development
+> Data Analytics (Python, SQL, Excel)
+> Version Control & Git Workflows
+```
+Thanks for stopping by — let’s build something amazing together! 😎
+P.S. If you’re still reading this... you definitely earned a cookie 🍪
+
+---
+
+Let me know if you'd like to add:
+- GitHub stats
+- Shields (badges)
+- Contribution chart
+- A professional portfolio link or personal website
+
+I'll help you integrate them seamlessly!
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryansh.asati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suryansh_asati) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suryanshasati1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryansh.asati1@gmail.com) 
